@@ -1,9 +1,9 @@
-# Bookkeeping
-Bookkeeping Book
+# Life bookkeeping
+Life bookkeeping
 
-[Bookkeeping]生活中用来方便管理资金的记录App
+[Life bookkeeping]生活中用来方便管理资金的记录App
 
-Bookkeeping是一款专业的生活记账软件，极简的操作流程，让你轻松上手，三秒钟即可完成记账。急速体验
+Life bookkeeping是一款专业的生活记账软件，极简的操作流程，让你轻松上手，三秒钟即可完成记账。急速体验
 
 [首页]账单显示
 
